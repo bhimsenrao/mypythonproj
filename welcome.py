@@ -1,3 +1,3 @@
 # firest python code
-print("welcome to first code of python")
-print("------")
+print("Welcome to best code of python")
+print("******")
