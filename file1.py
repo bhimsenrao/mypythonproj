@@ -1,5 +1,5 @@
 # file1.py
-x=10
-y=10
-print("Number1=",x,"Number2=",y)
-print(x*y)
+x=21
+z=20
+print("Number1=",x,"Number2=",z)
+print(x*z)
